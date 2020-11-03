@@ -20,7 +20,7 @@ body {
 }
 
 no-overflow {
-	overflow: hidden;
+  overflow: hidden;
 }
 
 .container {
@@ -52,4 +52,8 @@ no-overflow {
   padding-right: 10px;
   border: 3px solid black;
   border-radius: 10px;
+}
+
+#tracker-bar {
+  padding-right: 35%;
 }
