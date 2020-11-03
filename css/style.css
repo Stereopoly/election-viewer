@@ -1,18 +1,19 @@
 .row {
-	min-height: 100vh;
+  min-height: 90vh;
 }
 
-body, html {
-	padding: 0;
-	margin: 0;
+body,
+html {
+  padding: 0;
+  margin: 0;
 }
 
 .container {
-	margin: 0;
-	padding: 0;
+  margin-right: 0;
+  padding: 0;
 }
 
 .nopadding {
-   padding: 0 !important;
-   margin: 0 !important;
+  padding: 15px !important;
+  margin: 0 !important;
 }
