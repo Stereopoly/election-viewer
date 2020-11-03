@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	overflow-y: hidden;
+  overflow-y: hidden;
 }
 
 .container {
@@ -20,4 +20,8 @@ body {
 .nopadding {
   padding: 15px !important;
   margin: 0 !important;
+}
+
+.tab-content {
+  padding-top: 10px;
 }
